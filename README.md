@@ -6,6 +6,8 @@ I was previously an early engineer at Rekener, where we built the Scorecards pro
 
 I love to read 📖 and listen to audiobooks. Please share suggestions 🙂
 
+My resume 📋 is [here](https://iangregson.xyz/blog/resume-august-2023.pdf)
+
 <!--
 **iangregson/iangregson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
