@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I work at Bigtincan on Scorecards, a data analytics product; and Genie AI, a platform for helping our products deploy AI / LLM technologies.
+
+I was previously an early engineer at Rekener, where we built the Scorecards product. Still going two acquisitions later 🔥
+
+I love to read 📖 and listen to audiobooks. Please share suggestions 🙂
+
 <!--
 **iangregson/iangregson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
