@@ -6,7 +6,9 @@ I was previously an early engineer at Rekener, a Charlestown startup, where we b
 
 I love to read 📖 and listen to audiobooks. Please share suggestions 🙂
 
-My resume 📋 is [here](https://iangregson.xyz/blog/resume-november-2023.pdf)
+My resume 📋 is [here](https://drive.google.com/file/d/1AGRHyeQBHpLqKiZTLZAYySTOxchLrkIl/view?usp=sharing)
+
+
 
 <!--
 **iangregson/iangregson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
