@@ -4,7 +4,7 @@ I'm an Senior Engineer / Manager at Bigtincan where I work on Scorecards - a dat
 
 I was previously an early engineer at Rekener, a Charlestown startup, where we built the Scorecards product. Still crunching two acquisitions later 🔥
 
-Away from computers, I love to play music 🎸, cook 👨‍🍳, and paddleboard. And most of all, build Lego with my son, Dylan. 
+Away from computers, I love to play music 🎸 cook 👨‍🍳 and paddleboard. And most of all build Lego with my son, Dylan. 
 
 I also enjoy reading 📖 and listening to audiobooks. Please share suggestions 🙂
 
