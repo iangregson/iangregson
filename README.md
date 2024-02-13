@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm an Senior Engineer / Manager at Bigtincan where I work on Scorecards - a data analytics product - and Genie AI, a platform for helping our products deploy AI / LLM technologies.
+I'm a Staff Engineer at [Qatalog](https://qatalog.com) where I work on the backend with the Engine 🚂 squad building out AI search capabilties.
 
-I was previously an early engineer at Rekener, a Charlestown startup, where we built the Scorecards product. Still crunching two acquisitions later 🔥
+Before that, I was a Senior Engineer / Manager at Bigtincan where I worked on Scorecards - a data analytics product - and Genie AI, a platform for helping their products deploy AI / LLM technologies.
+
+I was previously an early engineer at Rekener, a Charlestown startup, where we built the Scorecards product.
 
 Away from computers, I love to play music 🎸 cook 👨‍🍳 and paddleboard. And most of all build Lego with my son, Dylan. 
 
